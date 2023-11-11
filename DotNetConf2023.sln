@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mongo", "Mongo\Mongo.csproj", "{A267CBD3-FB79-4FC8-8D63-79CB468D8A88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomersApp", "CustomersApp\CustomersApp.csproj", "{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF7Contains", "EF7Contains\EF7Contains.csproj", "{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A267CBD3-FB79-4FC8-8D63-79CB468D8A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A267CBD3-FB79-4FC8-8D63-79CB468D8A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A267CBD3-FB79-4FC8-8D63-79CB468D8A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A267CBD3-FB79-4FC8-8D63-79CB468D8A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
