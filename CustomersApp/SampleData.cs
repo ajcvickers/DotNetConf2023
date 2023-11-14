@@ -1,3 +1,5 @@
+using System.Drawing;
+
 public class SampleData
 {
     public static IList<Customer> CreateSampleCustomers()
@@ -9,6 +11,7 @@ public class SampleData
                 MemberSince = new DateOnly(2008, 5, 20),
                 Details = new()
                 {
+                    Region = "Europe",
                     Addresses =
                     {
                         new()
@@ -48,6 +51,7 @@ public class SampleData
                 MemberSince = new DateOnly(2018, 1, 21),
                 Details = new()
                 {
+                    Region = "Europe",
                     Addresses =
                     {
                         new()
@@ -94,6 +98,7 @@ public class SampleData
                 MemberSince = new DateOnly(2005, 12, 24),
                 Details = new()
                 {
+                    Region = "North America",
                     Notes = new() { "Consultant for PCC" },
                     Addresses =
                     {

@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mongo", "Mongo\Mongo.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomersApp", "CustomersApp\CustomersApp.csproj", "{48490C85-AC78-48CC-9D34-6F77DA4C2B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF7Contains", "EF7Contains\EF7Contains.csproj", "{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF7Contains", "EF7Contains\EF7Contains.csproj", "{C4708C30-6C50-4BA5-8D91-0B29E8EDABD0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9D19ACA-27B8-4677-9F9B-26104038A2DC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

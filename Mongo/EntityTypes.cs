@@ -9,6 +9,7 @@ public class Customer
 
 public class CustomerDetails
 {
+    public string? Region { get; set; }
     public List<string>? Notes { get; set; }
     public List<Phone> PhoneNumbers { get; } = new();
     public List<Address> Addresses { get; } = new();

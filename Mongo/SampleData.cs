@@ -9,6 +9,7 @@ public class SampleData
                 MemberSince = new DateTime(2008, 5, 20),
                 Details = new()
                 {
+                    Region = "Europe",
                     Addresses =
                     {
                         new()
@@ -48,6 +49,7 @@ public class SampleData
                 MemberSince = new DateTime(2018, 1, 21),
                 Details = new()
                 {
+                    Region = "Europe",
                     Addresses =
                     {
                         new()
@@ -94,6 +96,7 @@ public class SampleData
                 MemberSince = new DateTime(2005, 12, 24),
                 Details = new()
                 {
+                    Region = "North America",
                     Notes = new() { "Consultant for PCC" },
                     Addresses =
                     {

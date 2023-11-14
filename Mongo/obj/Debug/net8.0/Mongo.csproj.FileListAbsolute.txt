@@ -48,3 +48,4 @@ C:\local\code\DotNetConf2023\Mongo\bin\Debug\net8.0\runtimes\osx\native\libmongo
 C:\local\code\DotNetConf2023\Mongo\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
 C:\local\code\DotNetConf2023\Mongo\obj\Debug\net8.0\Mongo.csproj.AssemblyReference.cache
 C:\local\code\DotNetConf2023\Mongo\obj\Debug\net8.0\Mongo.csproj.CopyComplete
+C:\local\code\DotNetConf2023\Mongo\obj\Debug\net8.0\Mongo.sourcelink.json
